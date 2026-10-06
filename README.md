@@ -4,13 +4,28 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
-- 🏢 Saya mengelola **RR Dev**, berfokus pada infrastruktur *web*, pengembangan sistem, dan desain grafis.
-- 💻 Saat ini sedang mengembangkan dan memelihara sistem integrasi pemerintah daerah seperti **PORTAL BKAD**, **LACI BKAD**, **PregnaMind.com**, **SEKAR TRIPAT**, serta sistem akuntansi **SAKTI**.
-- ⚙️ Memiliki pengalaman dalam manajemen *server* lokal dan domain (cPanel, Apache, win-acme, Laragon) serta *version control* menggunakan GitHub/GitLab.
-- 🎨 Terbiasa menangani desain UI/UX dan aset visual untuk kebutuhan administrasi maupun sosial media.
-- 🚴‍♂️ Di waktu luang, saya aktif bersepeda bersama klub Pria Bike Bike (PBB).
-
+<table>
+  <tr>
+    <!-- Kolom Kiri: Foto Sketsa -->
+    <td width="35%" valign="top" align="center">
+      <br/>
+      <!-- Ganti 'sketsa-animasi.gif' dengan nama file gambar/GIF sketsa Anda yang sudah di-upload ke repository -->
+      <img src="sketsa-animasi.gif" alt="Dy Sketch" width="100%" style="border-radius: 15px;" />
+    </td>
+    
+    <!-- Kolom Kanan: Teks Tentang Saya -->
+    <td width="65%" valign="top">
+      <h3>👨‍💻 Tentang Saya</h3>
+      <ul>
+        <li>🏢 Saya mengelola <b>RR Dev</b>, berfokus pada infrastruktur <i>web</i>, pengembangan sistem, dan desain grafis.</li>
+        <li>💻 Saat ini sedang mengembangkan dan memelihara sistem integrasi pemerintah daerah seperti <b>BANTUIN</b>, <b>Si-BATUR</b>, serta sistem akuntansi <b>PATUH</b>.</li>
+        <li>⚙️ Memiliki pengalaman dalam manajemen <i>server</i> lokal dan domain (cPanel, Apache, win-acme, Laragon) serta <i>version control</i> menggunakan GitHub/GitLab.</li>
+        <li>🎨 Terbiasa menangani desain UI/UX dan aset visual untuk kebutuhan administrasi maupun sosial media.</li>
+        <li>🚴‍♂️ Di waktu luang, saya aktif bersepeda bersama klub <b>Pria Bike Bike (PBB)</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 💻 Tech Stack & Tools
