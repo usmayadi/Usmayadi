@@ -36,8 +36,10 @@
 
 ### 🚀 Highlight Proyek
 - **[SIM-BPKB](https://github.com/usmayadi/SIM-BPKB)** - Sistem Informasi Manajemen BPKB berbasis PHP.
-- **Si-BATUR & BANTUIN** - Sistem integrasi bantuan terpadu dan terukur.
-- **PATUH** - Pengembangan proyek sistem informasi akuntansi.
+- **Portal BKAD** - Sistem informasi BKAD Kabupaten Lombok Barat berbasis satu pintu.
+- **LACI BKAD** - Pengembangan Sistem Arsip Digital.
+- **SEKAR TRIPAT** - Sistem Informasi Kepegawaian RSUD Patut Patuh Patju.
+- **PregnaMind** - Website Kesehatan dan Screening Gratis Untuk Edukasi Ibu Hamil dan Menyusui.
 
 ---
 
