@@ -9,6 +9,6 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radium" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radium" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmayadi&show_icons=true&theme=radium" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmayadi&layout=compact&theme=radium" />
 </p>
