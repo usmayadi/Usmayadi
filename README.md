@@ -8,7 +8,7 @@
 <td width="35%" valign="top" align="center">
 <br/>
 <!-- Anda bisa ganti src di bawah dengan nama file GIF yang Anda upload manual jika link ini kedaluwarsa -->
-<img src="sketsa-animasi.gif" alt="Dy Sketch" width="100%" style="border-radius: 15px;" />
+<img src="Gemini_Generated_Image_maetnrmaetnrmaet.jpg" alt="Dy Sketch" width="100%" style="border-radius: 15px;" />
 </td>
 <td width="65%" valign="top">
 <h3>👨‍💻 Tentang Saya</h3>
