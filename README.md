@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Tentang Saya
 - 🏢 Saya mengelola **RR Dev**, berfokus pada infrastruktur *web*, pengembangan sistem, dan desain grafis.
-- 💻 Saat ini sedang mengembangkan dan memelihara sistem integrasi pemerintah daerah seperti **BANTUIN**, **Si-BATUR**, serta sistem akuntansi **PATUH**.
+- 💻 Saat ini sedang mengembangkan dan memelihara sistem integrasi pemerintah daerah seperti **PORTAL BKAD**, **LACI BKAD**, **PregnaMind.com**, **SEKAR TRIPAT**, serta sistem akuntansi **SAKTI**.
 - ⚙️ Memiliki pengalaman dalam manajemen *server* lokal dan domain (cPanel, Apache, win-acme, Laragon) serta *version control* menggunakan GitHub/GitLab.
 - 🎨 Terbiasa menangani desain UI/UX dan aset visual untuk kebutuhan administrasi maupun sosial media.
 - 🚴‍♂️ Di waktu luang, saya aktif bersepeda bersama klub Pria Bike Bike (PBB).
