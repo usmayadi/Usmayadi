@@ -2,30 +2,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3C81F6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Dy+(Ady)+%F0%9F%91%8B;System+Administrator+%26+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
----
+<br/>
 
-<table>
-  <tr>
-    <!-- Kolom Kiri: Foto Sketsa -->
-    <td width="35%" valign="top" align="center">
-      <br/>
-      <!-- Ganti 'sketsa-animasi.gif' dengan nama file gambar/GIF sketsa Anda yang sudah di-upload ke repository -->
-      <img src="sketsa-animasi.gif" alt="Dy Sketch" width="100%" style="border-radius: 15px;" />
-    </td>
-    
-    <!-- Kolom Kanan: Teks Tentang Saya -->
-    <td width="65%" valign="top">
-      <h3>👨‍💻 Tentang Saya</h3>
-      <ul>
-        <li>🏢 Saya mengelola <b>RR Dev</b>, berfokus pada infrastruktur <i>web</i>, pengembangan sistem, dan desain grafis.</li>
-        <li>💻 Saat ini sedang mengembangkan dan memelihara sistem integrasi pemerintah daerah seperti <b>BANTUIN</b>, <b>Si-BATUR</b>, serta sistem akuntansi <b>PATUH</b>.</li>
-        <li>⚙️ Memiliki pengalaman dalam manajemen <i>server</i> lokal dan domain (cPanel, Apache, win-acme, Laragon) serta <i>version control</i> menggunakan GitHub/GitLab.</li>
-        <li>🎨 Terbiasa menangani desain UI/UX dan aset visual untuk kebutuhan administrasi maupun sosial media.</li>
-        <li>🚴‍♂️ Di waktu luang, saya aktif bersepeda bersama klub <b>Pria Bike Bike (PBB)</b>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<table><tr>
+<td width="35%" valign="top" align="center">
+<br/>
+<img src="https://githubusercontent.com/animated_image/3516705297188246977" alt="Dy Sketch" width="100%" style="border-radius: 15px;" />
+</td>
+<td width="65%" valign="top">
+<h3>👨‍💻 Tentang Saya</h3>
+<ul>
+<li>🏢 Saya mengelola <b>RR Dev</b>, berfokus pada infrastruktur <i>web</i>, pengembangan sistem, dan desain grafis.</li>
+<li>💻 Saat ini sedang mengembangkan dan memelihara sistem integrasi pemerintah daerah seperti <b>BANTUIN</b>, <b>Si-BATUR</b>, serta sistem akuntansi <b>PATUH</b>.</li>
+<li>⚙️️ Memiliki pengalaman dalam manajemen <i>server</i> lokal dan domain (cPanel, Apache, win-acme, Laragon) serta <i>version control</i> menggunakan GitHub/GitLab.</li>
+<li>🎨 Terbiasa menangani desain UI/UX dan aset visual untuk kebutuhan administrasi maupun sosial media.</li>
+<li>🚴‍♂️ Di waktu luang, saya aktif bersepeda bersama klub <b>Pria Bike Bike (PBB)</b>.</li>
+</ul>
+</td>
+</tr></table>
+
 ---
 
 ### 💻 Tech Stack & Tools
@@ -51,10 +46,8 @@
 
 ### 🚀 Highlight Proyek
 - **[SIM-BPKB](https://github.com/usmayadi/SIM-BPKB)** - Sistem Informasi Manajemen BPKB berbasis PHP.
-- **Portal BKAD** - Sistem informasi BKAD Kabupaten Lombok Barat berbasis satu pintu.
-- **LACI BKAD** - Pengembangan Sistem Arsip Digital.
-- **SEKAR TRIPAT** - Sistem Informasi Kepegawaian RSUD Patut Patuh Patju.
-- **PregnaMind** - Website Kesehatan dan Screening Gratis Untuk Edukasi Ibu Hamil dan Menyusui.
+- **Si-BATUR & BANTUIN** - Sistem integrasi bantuan terpadu dan terukur.
+- **PATUH** - Pengembangan proyek sistem informasi akuntansi.
 
 ---
 
