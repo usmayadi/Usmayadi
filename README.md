@@ -1,69 +1,69 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3C81F6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Dy+(Ady)+%F0%9F%91%8B;System+Administrator+%26+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="assets/header.svg" width="100%" alt="Dy — System Administrator dan Developer, RR Dev" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi+there%2C+I%27m+Dy+%28Ady%29;System+Administrator+%26+Developer;Infrastructure%2C+code%2C+and+creative+design." width="100%" alt="Hi there, I'm Dy (Ady). System Administrator dan Developer." />
+  <p><b>Membangun sistem yang berguna. Menjaga infrastruktur tetap andal.</b></p>
+  <p><a href="https://github.com/usmayadi">GitHub</a> &nbsp; · &nbsp; <a href="https://instagram.com/rr.dev28">Instagram</a> &nbsp; · &nbsp; <a href="https://wa.me/6287851663806">WhatsApp</a></p>
 </div>
 
 ---
 
-<table><tr>
-<td width="35%" valign="top" align="center">
-<br/>
-<!-- Anda bisa ganti src di bawah dengan nama file GIF yang Anda upload manual jika link ini kedaluwarsa -->
-<img src="Gemini_Generated_Image_maetnrmaetnrmaet.jpg" alt="Dy Sketch" width="100%" style="border-radius: 15px;" />
+### 👋 Kenalan dengan Dy
+
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+  <img src="Gemini_Generated_Image_maetnrmaetnrmaet.jpg" width="240" alt="Potret sketsa Dy" />
+  <br/><br/>
+  <b>Dy / Ady</b><br/>
+  <sub>System Administrator · Developer</sub>
 </td>
-<td width="65%" valign="top">
-<h3>👨‍💻 Tentang Saya</h3>
-<ul>
-<li>🏢 Saya mengelola <b>RR Dev</b>, berfokus pada infrastruktur <i>web</i>, pengembangan sistem, dan desain grafis.</li>
-<li>💻 Saat ini sedang mengembangkan dan memelihara sistem integrasi pemerintah daerah seperti <b>Portal BKAD</b>, <b>LACI BKAD</b>, <b>SEKAR TRIPAT</b>, <b>PregnaMind.com</b>, <b>SIM BMD</b>, serta sistem akuntansi <b>SAKTI/b>.</li>
-<li>⚙️ Memiliki pengalaman dalam manajemen <i>server</i> lokal dan domain (cPanel, Apache, win-acme, Laragon) serta <i>version control</i> menggunakan GitHub/GitLab.</li>
-<li>🎨 Terbiasa menangani desain UI/UX dan aset visual untuk kebutuhan administrasi maupun sosial media.</li>
-<li>🚴‍♂️ Di waktu luang, saya aktif bersepeda bersama klub <b>Pria Bike Bike (PBB)</b>.</li>
-</ul>
+<td width="70%" valign="top">
+  <h3>Di balik RR Dev</h3>
+  <p>Saya mengelola <b>RR Dev</b>, berfokus pada infrastruktur web, pengembangan sistem, dan desain grafis.</p>
+  <p>💻 Mengembangkan dan memelihara <b>Portal BKAD, LACI BKAD, SEKAR TRIPAT, PregnaMind.com, SIM BMD</b>, serta sistem akuntansi <b>SAKTI</b>.</p>
+  <p>⚙️ Mengelola server lokal dan domain menggunakan <b>cPanel, Apache, win-acme, dan Laragon</b>, dengan version control melalui <b>GitHub dan GitLab</b>.</p>
+  <p>🎨 Menangani desain UI/UX dan aset visual untuk administrasi serta media sosial.</p>
+  <p>🚴 Di luar layar, aktif bersepeda bersama <b>Pria Bike Bike (PBB)</b>.</p>
 </td>
-</tr></table>
+</tr>
+</table>
 
----
+### 🧩 Tech Stack & Tools
 
-### 💻 Tech Stack & Tools
-<p align="left">
-  <!-- Bahasa & Framework -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  
-  <!-- Server & Infrastruktur -->
-  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
-  
-  <!-- Tools & Git -->
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  
-  <!-- Desain & Administrasi -->
-  <img src="https://img.shields.io/badge/Canva-3C81F6?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+<p>Tools yang menemani pekerjaan saya, dari pengembangan hingga desain.</p>
 
----
+<div align="center">
+  <img src="assets/tools-development.svg" width="100%" alt="PHP, Apache, cPanel, Windows 11 — development dan infrastruktur" />
+  <br/>
+  <img src="assets/tools-workflow.svg" width="100%" alt="GitHub, GitLab, Canva, Microsoft Excel — version control, desain dan administrasi" />
+</div>
 
 ### 🚀 Highlight Proyek
-- **[SIM-BPKB](https://github.com/usmayadi/SIM-BPKB)** - Sistem Informasi Manajemen BPKB berbasis PHP.
-- **Portal BKAD** - Sistem informasi BKAD Kabupaten Lombok Barat berbasis satu pintu.
-- **LACI BKAD** - Pengembangan Sistem Arsip Digital.
-- **SEKAR TRIPAT** - Sistem Informasi Kepegawaian RSUD Patut Patuh Patju.
-- **PregnaMind** - Website Kesehatan dan Screening Gratis Untuk Edukasi Ibu Hamil dan Menyusui.
 
----
+| Proyek | Fokus |
+| :--- | :--- |
+| **[SIM-BPKB](https://github.com/usmayadi/SIM-BPKB)** | Sistem Informasi Manajemen BPKB berbasis PHP. |
+| **Portal BKAD** | Portal satu pintu untuk BKAD Kabupaten Lombok Barat. |
+| **LACI BKAD** | Sistem arsip digital. |
+| **SEKAR TRIPAT** | Sistem informasi kepegawaian RSUD Patut Patuh Patju. |
+| **PregnaMind** | Edukasi kesehatan dan screening gratis untuk ibu hamil dan menyusui. |
 
-### 📊 Statistik GitHub
+### 📊 Aktivitas GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmayadi&show_icons=true&theme=tokyonight&hide_border=true&title_color=3C81F6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmayadi&theme=tokyonight&hide_border=true&title_color=3C81F6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmayadi&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;icon_color=818CF8&amp;text_color=C9D1D9&amp;border_radius=16" width="48%" alt="Statistik GitHub usmayadi" />
+  <img src="https://streak-stats.demolab.com?user=usmayadi&amp;hide_border=true&amp;background=0D1117&amp;ring=67E8F9&amp;fire=818CF8&amp;currStreakLabel=67E8F9&amp;sideLabels=C9D1D9&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8B949E&amp;border_radius=16" width="48%" alt="Statistik streak kontribusi usmayadi" />
 </div>
 
 ---
 
-### 📫 Let's Connect
-<p align="left">
-  <a href="https://instagram.com/rr.dev28"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://wa.me/6287851663806"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
+<div align="center">
+  <h3>🤝 Mari terhubung</h3>
+  <p>Ngobrol tentang sistem, infrastruktur, desain, atau bersepeda.</p>
+  <a href="https://instagram.com/rr.dev28"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&amp;logo=instagram&amp;logoColor=E879F9" alt="Instagram RR Dev" /></a>
+  &nbsp;
+  <a href="https://wa.me/6287851663806"><img src="https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=34D399" alt="Hubungi melalui WhatsApp" /></a>
+  <br/><br/>
+  <sub>Code with purpose · Keep systems running · Stay creative</sub>
+</div>
