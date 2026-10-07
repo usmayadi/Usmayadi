@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Dy — System Administrator dan Developer, RR Dev" />
+  <img src="header.svg" width="100%" alt="Dy — System Administrator dan Developer, RR Dev" />
   <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi+there%2C+I%27m+Dy+%28Ady%29;System+Administrator+%26+Developer;Infrastructure%2C+code%2C+and+creative+design." width="100%" alt="Hi there, I'm Dy (Ady). System Administrator dan Developer." />
   <p><b>Membangun sistem yang berguna. Menjaga infrastruktur tetap andal.</b></p>
@@ -34,9 +34,9 @@
 <p>Tools yang menemani pekerjaan saya, dari pengembangan hingga desain.</p>
 
 <div align="center">
-  <img src="assets/tools-development.svg" width="100%" alt="PHP, Apache, cPanel, Windows 11 — development dan infrastruktur" />
+  <img src="tools-development.svg" width="100%" alt="PHP, Apache, cPanel, Windows 11 — development dan infrastruktur" />
   <br/>
-  <img src="assets/tools-workflow.svg" width="100%" alt="GitHub, GitLab, Canva, Microsoft Excel — version control, desain dan administrasi" />
+  <img src="tools-workflow.svg" width="100%" alt="GitHub, GitLab, Canva, Microsoft Excel — version control, desain dan administrasi" />
 </div>
 
 ### 🚀 Highlight Proyek
